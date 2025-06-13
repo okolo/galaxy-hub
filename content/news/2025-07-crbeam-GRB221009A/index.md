@@ -5,7 +5,14 @@ tease: "The possibility of multi-TeV secondary gamma rays from GRB221009A"
 hide_tease: false
 tags: [esg-wp5, esg, paper, workflow, workflowhub]
 subsites: [all]
-supporters: [esg]
+supporters:
+- esg
+- eurosciencegateway
+- Galaxy
+- eu
+- eosc
+- galaxy-europe
+- usegalaxy-eu
 main_subsite: eu
 ---
 
